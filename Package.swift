@@ -15,8 +15,8 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "InsiderMobile",
-      url: "https://mobilesdk.useinsider.com/iOS/13.2.1/InsiderMobileIOSFramework.zip",
-      checksum: "38f6081e53045c684775d031281f667aa8924c5ebc2d3f957fa746216f689288"
+      url: "https://mobilesdk.useinsider.com/iOS/13.2.2/InsiderMobileIOSFramework.zip",
+      checksum: "f8b49736b0e91c17482eda4126e67659a72eb880f63e691f1d888c18834a5f50"
     ),
   ]
   // https://academy.useinsider.com/docs/ios-sdk-changelog

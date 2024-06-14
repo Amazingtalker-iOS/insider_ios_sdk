@@ -19,13 +19,13 @@ let package = Package(
   targets: [
     .binaryTarget(
       name: "InsiderMobile",
-      url: "https://mobilesdk.useinsider.com/iOS/13.2.2/InsiderMobileIOSFramework.zip",
-      checksum: "f8b49736b0e91c17482eda4126e67659a72eb880f63e691f1d888c18834a5f50"
+      url: "https://mobilesdk.useinsider.com/iOS/13.5.0/InsiderMobileIOSFramework.zip",
+      checksum: "ec1014e3b32e0212ec5480ec3db655f87bb8990c2fd6039a4226a171c700bdbc"
     ),
     .binaryTarget(
       name: "InsiderMobileAdvancedNotification",
-      url: "https://mobilesdk.useinsider.com/iOSNotification/1.2.2/InsiderMobileAdvancedNotification.zip",
-      checksum: "2de236f8cfdd1bb412fbc8d837c4d2d860dbdca0fab0c35b2e942718c0365b4e"
+      url: "https://mobilesdk.useinsider.com/iOSNotification/2.0.0/InsiderMobileAdvancedNotification.zip",
+      checksum: "73280042c545a56a9655563b28f33233091441fd04280d4a9906c54cb8232527"
     ),
   ]
   // https://academy.useinsider.com/docs/ios-sdk-changelog
